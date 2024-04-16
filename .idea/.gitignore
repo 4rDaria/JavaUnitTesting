@@ -10,6 +10,7 @@ target/
 .idea/
 *.iws
 *.iml
+*.xml
 # Build files
 Build/
 # Operating System Files #
